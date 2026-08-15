@@ -1,5 +1,8 @@
 # Warehouse Demand & Product Performance — 2018–2019 Analytical Decision Report
 
+### Interactive Dashboard
+
+[🔗 View the Live Power BI Dashboard](YOUR_POWER_BI_LINK)
 ## 1. Executive Summary
 
 The analysis identifies a clear deterioration in business volume between 2018 and 2019.
